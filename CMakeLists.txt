@@ -3,4 +3,4 @@ project(CKattis)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CKattis Esej.cpp)
+add_executable(CKattis Zagrade.cpp)
