@@ -3,4 +3,4 @@ project(CKattis)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CKattis ProblemClassification.cpp)
+add_executable(CKattis IslandHopping.cpp)
