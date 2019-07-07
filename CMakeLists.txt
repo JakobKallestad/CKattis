@@ -3,4 +3,4 @@ project(CKattis)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CKattis IslandHopping.cpp)
+add_executable(CKattis ClosingtheLoop.cpp)
